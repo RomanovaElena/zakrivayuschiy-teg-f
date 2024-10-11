@@ -13,7 +13,7 @@
     linear-gradient(#007f0c, #004306);
   --accent-color:#00cc14;
   --font-weight-basic: 465;
-  --font-weight-title: 765;
+  --font-weight-title: 785;
   --button-text-color: var(--accent-color);
   --heart-contour-color: var(--accent-color);
   --heart-fill-color: #ff0000;
@@ -43,7 +43,7 @@
       linear-gradient(#007f0c, #004306);
     --accent-color:#00cc14;
     --font-weight-basic: 465;
-    --font-weight-title: 765;
+    --font-weight-title: 785;
     --button-text-color: var(--accent-color);
     --heart-contour-color: var(--accent-color);
     --heart-fill-color: #ff0000;
