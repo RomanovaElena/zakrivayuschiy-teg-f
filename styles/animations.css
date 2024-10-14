@@ -134,15 +134,6 @@
   }
 }
 
-@keyframes hover-filling {
-  from {
-    transform: scaleX(0);
-  }
-  to {
-    transform: scaleX(1);
-  }
-}
-
 @keyframes heart-size {
   from {
     scale: 1;
